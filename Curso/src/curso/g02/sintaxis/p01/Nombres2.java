@@ -13,6 +13,7 @@ public class Nombres2 {
 		
 		$nombre=_contador;
 		pasado=_contador;
+//este comentario es de version
 
 		System.out.println($nombre + " / " + _contador);
 	}
