@@ -12,7 +12,7 @@ public class Nombres {
 		_contador=25;
 		
 		$nombre=_contador;
-//		pasado=_contador;
+
 
 		System.out.println($nombre + " / " + _contador);
 	}
